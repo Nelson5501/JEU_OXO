@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{1893C493-03B3-416A-9345-8241A251113A}|Default">
+  <MonoDevelop.Ide.ItemProperties.plus__ou__moin PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="plus_ou_moin/Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="16" Column="49" />
+      <File FileName="plus_ou_moin/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="jeux_de_des" expanded="True">
+            <Node name="jeux_de_des" expanded="True" />
+            <Node name="plus_ou_moin" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="jeux_de_des" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.jeux__de__des PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

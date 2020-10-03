@@ -1,0 +1,5 @@
+/Users/NelsonCaterino/Projects/jeux_de_des/bin/Debug/jeux_de_des.exe
+/Users/NelsonCaterino/Projects/jeux_de_des/bin/Debug/jeux_de_des.pdb
+/Users/NelsonCaterino/Projects/jeux_de_des/obj/Debug/jeux_de_des.csproj.CoreCompileInputs.cache
+/Users/NelsonCaterino/Projects/jeux_de_des/obj/Debug/jeux_de_des.exe
+/Users/NelsonCaterino/Projects/jeux_de_des/obj/Debug/jeux_de_des.pdb

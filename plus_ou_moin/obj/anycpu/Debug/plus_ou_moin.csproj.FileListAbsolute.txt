@@ -1,0 +1,6 @@
+/Users/NelsonCaterino/Projects/jeux_de_des/plus_ou_moin/obj/anycpu/Debug/plus_ou_moin.csprojAssemblyReference.cache
+/Users/NelsonCaterino/Projects/jeux_de_des/plus_ou_moin/obj/anycpu/Debug/plus_ou_moin.csproj.CoreCompileInputs.cache
+/Users/NelsonCaterino/Projects/jeux_de_des/plus_ou_moin/bin/Debug/plus_ou_moin.exe
+/Users/NelsonCaterino/Projects/jeux_de_des/plus_ou_moin/bin/Debug/plus_ou_moin.pdb
+/Users/NelsonCaterino/Projects/jeux_de_des/plus_ou_moin/obj/anycpu/Debug/plus_ou_moin.exe
+/Users/NelsonCaterino/Projects/jeux_de_des/plus_ou_moin/obj/anycpu/Debug/plus_ou_moin.pdb
