@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jeux_de_des", "jeux_de_des.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "plus_ou_moin", "plus_ou_moin\plus_ou_moin.csproj", "{1893C493-03B3-416A-9345-8241A251113A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jeu_OXO", "Jeu_OXO\Jeu_OXO.csproj", "{37A7B3EB-F1CF-43A9-BD72-B3D04A27B1AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -19,5 +21,9 @@ Global
 		{1893C493-03B3-416A-9345-8241A251113A}.Debug|anycpu.Build.0 = Debug|anycpu
 		{1893C493-03B3-416A-9345-8241A251113A}.Release|anycpu.ActiveCfg = Release|anycpu
 		{1893C493-03B3-416A-9345-8241A251113A}.Release|anycpu.Build.0 = Release|anycpu
+		{37A7B3EB-F1CF-43A9-BD72-B3D04A27B1AA}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{37A7B3EB-F1CF-43A9-BD72-B3D04A27B1AA}.Debug|anycpu.Build.0 = Debug|anycpu
+		{37A7B3EB-F1CF-43A9-BD72-B3D04A27B1AA}.Release|anycpu.ActiveCfg = Release|anycpu
+		{37A7B3EB-F1CF-43A9-BD72-B3D04A27B1AA}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 EndGlobal

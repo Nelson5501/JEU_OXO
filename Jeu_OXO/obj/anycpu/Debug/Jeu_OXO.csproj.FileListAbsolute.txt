@@ -1,0 +1,6 @@
+/Users/NelsonCaterino/Projects/jeux_de_des/Jeu_OXO/bin/Debug/Jeu_OXO.exe
+/Users/NelsonCaterino/Projects/jeux_de_des/Jeu_OXO/bin/Debug/Jeu_OXO.pdb
+/Users/NelsonCaterino/Projects/jeux_de_des/Jeu_OXO/obj/anycpu/Debug/Jeu_OXO.csproj.CoreCompileInputs.cache
+/Users/NelsonCaterino/Projects/jeux_de_des/Jeu_OXO/obj/anycpu/Debug/Jeu_OXO.exe
+/Users/NelsonCaterino/Projects/jeux_de_des/Jeu_OXO/obj/anycpu/Debug/Jeu_OXO.pdb
+/Users/NelsonCaterino/Projects/jeux_de_des/Jeu_OXO/obj/anycpu/Debug/Jeu_OXO.csprojAssemblyReference.cache

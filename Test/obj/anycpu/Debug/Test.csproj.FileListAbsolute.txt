@@ -1,0 +1,6 @@
+/Users/NelsonCaterino/Projects/jeux_de_des/Test/obj/anycpu/Debug/Test.csproj.CoreCompileInputs.cache
+/Users/NelsonCaterino/Projects/jeux_de_des/Test/bin/Debug/Test.exe
+/Users/NelsonCaterino/Projects/jeux_de_des/Test/bin/Debug/Test.pdb
+/Users/NelsonCaterino/Projects/jeux_de_des/Test/obj/anycpu/Debug/Test.exe
+/Users/NelsonCaterino/Projects/jeux_de_des/Test/obj/anycpu/Debug/Test.pdb
+/Users/NelsonCaterino/Projects/jeux_de_des/Test/obj/anycpu/Debug/Test.csprojAssemblyReference.cache
